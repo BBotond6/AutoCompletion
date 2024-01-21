@@ -8,10 +8,10 @@ Users can enhance their command-line experience by integrating this autocompleti
 
 - Make the script executable:
 
-```chmod +x AutoCompletionScript.sh```
+  ```chmod +x AutoCompletionScript.sh```
 - Copy the following line:
 
-```source /<full_path>/AutoCompletionScript.sh```
+  ```source /<full_path>/AutoCompletionScript.sh```
 - Paste the line into your ```~/.bashrc``` file.
 - Reload the terminal or open a new one to activate the autocompletion.
 
@@ -27,8 +27,8 @@ This script serves as a practical tool for users to test and ensure the accurate
 
 - Make the TestScript.sh script executable:
 
-```chmod +x TestScript.sh```
+  ```chmod +x TestScript.sh```
 - Run the script with two arguments to observe the validation process:
 
-```./TestScript.sh arg1 argument2```
+  ```./TestScript.sh arg1 argument2```
 - Receive feedback on the correctness of the provided arguments based on predefined options.
